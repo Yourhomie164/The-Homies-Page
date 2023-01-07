@@ -1,2 +1,2 @@
 # The-Homies-Page
-description goes here
+I am a person
