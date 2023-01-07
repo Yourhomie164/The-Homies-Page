@@ -1,2 +1,2 @@
 # The-Homies-Page
-I am a person
+HEY GUYS! NEW MAJOR UPDATE!
