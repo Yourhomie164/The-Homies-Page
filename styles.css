@@ -3,6 +3,10 @@
  height: 75vh;
  width: 75vh;
  
+ span {
+  font-family: helvetica;
+}
+ 
  font-family: "Lucida Console", "Courier New", monospace;
  
  border: 1px outset white;
