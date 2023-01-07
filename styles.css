@@ -3,9 +3,11 @@
  height: 75vh;
  width: 75vh;
  
+ font-family: "Lucida Console", "Courier New", monospace;
+ 
  border: 1px outset white;
  text-align: center;
- text-color: white;
+ color: white;
 }
 
 .navBar {
