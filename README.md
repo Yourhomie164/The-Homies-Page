@@ -1,4 +1,7 @@
 # The-Homies-Page
 Hey!
-Im in the middle of adding a WebOS to my website.
-It's not going to be the best, but it's not that bad either.
+I AM HORRIBLE AT DOING A WEB OS
+so i wont do it (for now at least)
+i want to try to make some web apps
+this is my first time doing it
+😀
