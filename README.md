@@ -1,7 +1,6 @@
 # The-Homies-Page
-Hey!
-I AM HORRIBLE AT DOING A WEB OS
-so i wont do it (for now at least)
-i want to try to make some web apps
-this is my first time doing it
-😀
+I am trying to make the sample application.
+I'm trying to detect if the user is using a PWA app,
+or if it is just in the browser.
+
+Image
