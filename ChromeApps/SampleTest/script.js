@@ -1,5 +1,5 @@
-if (navigator.standalone) {
-  alert("You are on the site correctly.");
+if (window.location.protocol === 'chrome-extension:' || window.location.protocol === 'chrome-search:' || window.location.protocol === 'chrome:') {
+  alert("W");
 } else {
-  alert("Please open the site in PWA mode.");
+  alert("L");
 }
