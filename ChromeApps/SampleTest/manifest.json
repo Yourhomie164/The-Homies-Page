@@ -1,10 +1,10 @@
 {
-  "name": "My PWA",
-  "short_name": "My PWA",
+  "name": "Sample Test Application",
+  "short_name": "STA",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#3c4043",
+  "theme_color": "#202124"
   "icons": [
     {
       "src": "icons/icon-192x192.png",
